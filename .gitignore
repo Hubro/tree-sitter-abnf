@@ -1,5 +1,7 @@
 *~
 
 .vagrant/
+.python-version
+.nvmrc
+.envrc
 node_modules/
-build/
